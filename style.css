@@ -1,0 +1,9 @@
+.w3-container{padding:0.01em 16px}
+
+@media all and (orientation:portrait) {
+	.menubar{float:left;width:100%}
+}
+
+@media all and (orientation:landscape) {
+	.menubar{width:19.99999%}
+}
